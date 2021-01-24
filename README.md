@@ -1,7 +1,7 @@
 # Filter-App
 A Simple photo filter android app.
 
-*The app-debug file is the output .apk file.
+*The app-debug file is the output .apk file.*
 
 This is the app that I was taught in Harvard's CS50 course. 
 
